@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mountainfex&label=Profile%20views&color=0e75b6&style=flat" alt="mountainfex" /> </p>
 
-- 🧠 I’m currently learning **webdevelopment using Angular and Typescript**
+- 🧠 I’m currently learning **webdevelopment using Angular and Typescript.**
 
 - 👯 I’m looking to collaborate on **all kind of projects.**
 
