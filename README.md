@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[niklastibbe.com](niklastibbe.com)**
 
-- 📫 How to reach me **kontakt@niklastibbe.com**
+- 📫 How to reach me **contact@niklastibbe.com**
 
 - ⚡ Fun fact **I'm a passionate Trailrunner, currently training for an Ultratrail.**
 
